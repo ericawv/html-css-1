@@ -1,0 +1,46 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+body {
+    background-color: #ef476f;
+    padding:0%;
+}
+
+form {
+
+    width: 50%;
+}
+
+h1 {
+
+    text-align: center;
+    color: #073b4c;
+}
+
+h2 {
+    text-align: center;
+    color: #ffd166;
+}
+input {
+    display: block;
+
+}
+#submit {
+    margin-top: 45px;
+    margin-bottom: 45px;
+
+}
+
+.form {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.banner {
+    width: 100%;
+    margin-top: 0px;
+}
